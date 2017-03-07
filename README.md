@@ -13,7 +13,6 @@
 
 #### - Importando em algum projeto
 
-##### Pode ser feito de duas formas:
 1. Importando: `from fumeCrawler import FumeCrawler`
 2. Passando o RA e a senha através da função `.run(RA, password)`
 
